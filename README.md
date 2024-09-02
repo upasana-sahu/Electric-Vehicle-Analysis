@@ -22,3 +22,5 @@ AtliQ Motors is an imaginary automotive company that wants to launch its new EV 
 ### 🔧Tools Used
 - Power BI
 - AI tool (ChatGpt)
+
+[Video Presentation Link](https://youtu.be/94LwN5T5d_Y)
