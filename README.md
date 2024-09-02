@@ -5,10 +5,10 @@ AtliQ Motors is an imaginary automotive company that wants to launch it's new EV
 ### Project Journey
 Objective: To analyse the EV sales in India and draw insights for a data-driven launch strategy.  
 Additional data from: MHI (Ministry of Heavy Industries), e-Amrit
-Data cleaning: To remove duplicates and correct the formatting
+Data cleaning: To remove duplicates and correct the formatting  
 Analysis: Utilised Power Bi for detailed analysis and for creating dashboard
 Presentation: crafted a video presentation to answer the primary and secondary questions and the dashboard.
-Outcome: drew actionable insights and valuable insights
+Outcome: drew actionable insights and valuable recommendations.
 ### Key Insights
 ### Key Learnings
 ### Tools Used
